@@ -21,6 +21,7 @@
 
 using YamlDotNet.Core;
 using YamlDotNet.Core.Tokens;
+using Version = YamlDotNet.Core.Version;
 
 namespace YamlDotNet.Test.Core
 {

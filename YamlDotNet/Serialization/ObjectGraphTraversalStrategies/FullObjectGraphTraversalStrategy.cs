@@ -19,9 +19,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using System;
 using System.Collections;
-using System.Collections.Generic;
 using System.Text;
 using YamlDotNet.Core;
 using YamlDotNet.Helpers;
@@ -109,7 +107,7 @@ namespace YamlDotNet.Serialization.ObjectGraphTraversalStrategies
             path.Push(new ObjectPathSegment(name, value));
             try
             {
-                var typeCode = value.Type.GetTypeCode();
+                var typeCode = value.Type.GetTypeCodeInternal();
                 switch (typeCode)
                 {
                     case TypeCode.Boolean:

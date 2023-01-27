@@ -19,9 +19,9 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using System;
 using System.ComponentModel;
 using YamlDotNet.Core;
+using YamlDotNet.Helpers;
 
 namespace YamlDotNet.Serialization.ObjectGraphVisitors
 {

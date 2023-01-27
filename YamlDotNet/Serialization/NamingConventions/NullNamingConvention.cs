@@ -20,8 +20,6 @@
 // SOFTWARE.
 
 
-using System;
-
 namespace YamlDotNet.Serialization.NamingConventions
 {
     /// <summary>

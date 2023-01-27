@@ -19,10 +19,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.IO;
 
 namespace YamlDotNet.Test.Spec
 {
@@ -92,26 +89,8 @@ namespace YamlDotNet.Test.Spec
 
         private static string GetTestFixtureDirectory()
         {
-            // check if environment variable YAMLDOTNET_SPEC_SUITE_DIR is set
-            var fixturesPath = Environment.GetEnvironmentVariable("YAMLDOTNET_SPEC_SUITE_DIR");
-
-            if (!string.IsNullOrEmpty(fixturesPath))
-            {
-                if (!Directory.Exists(fixturesPath))
-                {
-                    throw new Exception("Path set as environment variable 'YAMLDOTNET_SPEC_SUITE_DIR' does not exist!");
-                }
-
-                return fixturesPath;
-            }
-
-            // In Microsoft.NET.Test.Sdk v15.0.0, the current working directory
-            // is not set to project's root but instead the output directory.
-            // see: https://github.com/Microsoft/vstest/issues/435.
-            //
-            // Let's use the strategry of finding the parent directory of
-            // "yaml-test-suite" directory by walking from cwd backwards upto the
-            // volume's root.
+            // Find the parent directory of "yaml-test-suite" directory by walking from
+            // cwd backwards up to the volume's root.
             var currentDirectory = Directory.GetCurrentDirectory();
             var currentDirectoryInfo = new DirectoryInfo(currentDirectory);
 
@@ -123,7 +102,7 @@ namespace YamlDotNet.Test.Spec
                 }
                 currentDirectoryInfo = currentDirectoryInfo.Parent;
             }
-            while (currentDirectoryInfo.Parent != null);
+            while (currentDirectoryInfo?.Parent is not null);
 
             throw new DirectoryNotFoundException("Unable to find 'yaml-test-suite' directory");
         }

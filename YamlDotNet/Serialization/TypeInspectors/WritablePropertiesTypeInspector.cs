@@ -19,11 +19,9 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Reflection;
 using YamlDotNet.Core;
+using YamlDotNet.Helpers;
 
 namespace YamlDotNet.Serialization.TypeInspectors
 {
@@ -93,7 +91,7 @@ namespace YamlDotNet.Serialization.TypeInspectors
 
             public IObjectDescriptor Read(object target)
             {
-                var propertyValue = propertyInfo.ReadValue(target);
+                var propertyValue = propertyInfo.GetValue(target, null);
                 var actualType = TypeOverride ?? typeResolver.Resolve(Type, propertyValue);
                 return new ObjectDescriptor(propertyValue, actualType, Type, ScalarStyle);
             }

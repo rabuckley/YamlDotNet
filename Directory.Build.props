@@ -1,0 +1,29 @@
+<Project>
+
+  <PropertyGroup>
+    <TargetFramework>net70</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <LangVersion>preview</LangVersion>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <AnalysisMode>
+      AllEnabledByDefault</AnalysisMode>
+    <AnalysisLevel>preview</AnalysisLevel>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+</Project>

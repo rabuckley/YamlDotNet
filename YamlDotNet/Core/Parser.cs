@@ -19,10 +19,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.IO;
 using YamlDotNet.Core.Tokens;
 using MappingStyle = YamlDotNet.Core.Events.MappingStyle;
 using ParsingEvent = YamlDotNet.Core.Events.ParsingEvent;

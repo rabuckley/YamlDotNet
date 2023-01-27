@@ -23,10 +23,10 @@
 // the copyright holder has agreed to redistribute this file under the license
 // used in YamlDotNet.
 
-using System;
 using System.Globalization;
-using System.Reflection;
 using System.ComponentModel;
+using System.Reflection;
+using YamlDotNet.Helpers;
 
 namespace YamlDotNet.Serialization.Utilities
 {
@@ -90,7 +90,7 @@ namespace YamlDotNet.Serialization.Utilities
         /// <returns></returns>
         public static object? ChangeType(object? value, Type destinationType, IFormatProvider provider)
         {
-            return ChangeType(value, destinationType, new CultureInfoAdapter(CultureInfo.CurrentCulture, provider));
+            return ChangeType(value, destinationType, CultureInfo.CurrentCulture);
         }
 
         /// <summary>

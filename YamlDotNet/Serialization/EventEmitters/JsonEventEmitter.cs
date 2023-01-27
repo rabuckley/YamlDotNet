@@ -19,9 +19,9 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using System;
 using YamlDotNet.Core;
 using YamlDotNet.Core.Events;
+using YamlDotNet.Helpers;
 
 namespace YamlDotNet.Serialization.EventEmitters
 {
@@ -49,7 +49,7 @@ namespace YamlDotNet.Serialization.EventEmitters
             }
             else
             {
-                var typeCode = eventInfo.Source.Type.GetTypeCode();
+                var typeCode = eventInfo.Source.Type.GetTypeCodeInternal();
                 switch (typeCode)
                 {
                     case TypeCode.Boolean:

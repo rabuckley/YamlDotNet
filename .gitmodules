@@ -1,6 +1,3 @@
-[submodule "BuildUtils.UnityPrerequisites"]
-	path = BuildUtils.UnityPrerequisites
-	url = https://github.com/aaubry/BuildUtils.UnityPrerequisites.git
 [submodule "yaml-test-suite"]
 	path = YamlDotNet.Test/yaml-test-suite
 	url = https://github.com/yaml/yaml-test-suite

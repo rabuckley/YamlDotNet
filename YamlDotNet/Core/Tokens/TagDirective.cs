@@ -19,7 +19,6 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using System;
 using System.Text.RegularExpressions;
 
 namespace YamlDotNet.Core.Tokens
@@ -52,7 +51,7 @@ namespace YamlDotNet.Core.Tokens
         {
         }
 
-        private static readonly Regex TagHandlePattern = new Regex(@"^!([0-9A-Za-z_\-]*!)?$", StandardRegexOptions.Compiled);
+        private static readonly Regex TagHandlePattern = new Regex(@"^!([0-9A-Za-z_\-]*!)?$", RegexOptions.Compiled);
 
         /// <summary>
         /// Initializes a new instance of the <see cref="TagDirective"/> class.

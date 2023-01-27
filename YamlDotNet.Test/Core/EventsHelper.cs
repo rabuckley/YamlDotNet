@@ -25,6 +25,7 @@ using FluentAssertions;
 using YamlDotNet.Core;
 using YamlDotNet.Core.Events;
 using TagDirective = YamlDotNet.Core.Tokens.TagDirective;
+using Version = YamlDotNet.Core.Version;
 using VersionDirective = YamlDotNet.Core.Tokens.VersionDirective;
 
 // ReSharper disable MemberHidesStaticFromOuterClass

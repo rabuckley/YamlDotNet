@@ -19,10 +19,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
 using YamlDotNet.Core.Events;
@@ -39,7 +36,7 @@ namespace YamlDotNet.Core
     public class Emitter : IEmitter
     {
         private static readonly Regex UriReplacer = new Regex(@"[^0-9A-Za-z_\-;?@=$~\\\)\]/:&+,\.\*\(\[!]",
-            StandardRegexOptions.Compiled | RegexOptions.Singleline);
+            RegexOptions.Compiled | RegexOptions.Singleline);
 
         private static readonly string[] newLineSeparators = new[] { "\r\n", "\r", "\n" };
 

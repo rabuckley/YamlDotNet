@@ -19,7 +19,6 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using System;
 using System.Text.RegularExpressions;
 
 namespace YamlDotNet.Core
@@ -29,7 +28,7 @@ namespace YamlDotNet.Core
         public static readonly AnchorName Empty = default;
 
         // https://yaml.org/spec/1.2/spec.html#id2785586
-        private static readonly Regex AnchorPattern = new Regex(@"^[^\[\]\{\},]+$", StandardRegexOptions.Compiled);
+        private static readonly Regex AnchorPattern = new Regex(@"^[^\[\]\{\},]+$", RegexOptions.Compiled);
 
         private readonly string? value;
 
