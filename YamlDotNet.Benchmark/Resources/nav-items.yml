@@ -1,0 +1,944 @@
+- name: Home
+  path: /
+  items:
+  - name: _tosort
+    items:
+    - name: Cherry at mainstream secondary school
+      path: /_tosort/cherry-mainstream-secondary-school
+    - name: A comparison between older persons with Down syndrome and a control gr
+      path: /_tosort/comparison-older-persons-down-syndrome-control-group-clinical-characteristics-functional-status-sensorimotor-function
+    - name: 'Developing mental imagery using a digital camera: A study of adult voc'
+      path: /_tosort/developing-mental-imagery-using-digital-camera-adult-vocational-training
+    - name: 'Mental rotation abilities in individuals with Down syndrome - a pilot '
+      path: /_tosort/mental-rotation-abilities-individuals-down-syndrome-pilot
+  - name: Down Syndrome Issues and Information
+    path: /issue-information
+    items:
+    - name: Living with Down syndrome
+      path: /issue-information/living-with-down-syndrome
+  - name: News and Update
+    path: /news-update
+    items:
+    - name: 01
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /news-update/01/1/bilingual-down-syndrome
+        - name: ''
+          path: /news-update/01/1/conference-report-national-down-syndrome-society-international-down-syndrome-research-conference
+        - name: ''
+          path: /news-update/01/1/including-down-syndrome-part
+        - name: ''
+          path: /news-update/01/1/social-development-special-schools
+      - name: 2
+        items:
+        - name: ''
+          path: /news-update/01/2/conference-report-improving-outcome-down-syndrome
+        - name: ''
+          path: /news-update/01/2/including-down-syndrome-part-from-community-individual
+        - name: ''
+          path: /news-update/01/2/multinutrient-formulas-other-substances-therapies-down-syndrome-overview
+      - name: 3
+        items:
+        - name: ''
+          path: /news-update/01/3/improving-speech-language-skills-teenagers-down-syndrome
+        - name: ''
+          path: /news-update/01/3/singing-music-aids-language-development-relevance-down-syndrome
+      - name: 4
+        items:
+        - name: ''
+          path: /news-update/01/4/making-inclusion-work-down-syndrome
+        - name: ''
+          path: /news-update/01/4/meeting-educational-needs-pupils-down-syndrome-mainstream-secondary-schools
+    - name: 02
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /news-update/02/1/early-reading-skills-preschoolers-down-syndrome-typically-developing-peers-findings-from-research
+        - name: ''
+          path: /news-update/02/1/editorial
+        - name: ''
+          path: /news-update/02/1/learning-count-understand-number
+        - name: ''
+          path: /news-update/02/1/learning-mathematics-school-and-later
+        - name: ''
+          path: /news-update/02/1/letter-successful-inclusion-luke
+        - name: ''
+          path: /news-update/02/1/providing-effective-speech-language-therapy-down-syndrome-mainstream-settings-example
+        - name: ''
+          path: /news-update/02/1/reading-program-signing-develop-language-communication-skills-toddler-down-syndrome
+        - name: ''
+          path: /news-update/02/1/significance-early-reading-down-syndrome
+        - name: ''
+          path: /news-update/02/1/teaching-charlotte-spoken-language-reading
+        - name: ''
+          path: /news-update/02/1/teaching-nazli-turkish-english
+        - name: ''
+          path: /news-update/02/1/teaching-reading-develop-language
+        - name: ''
+          path: /news-update/02/1/wiltshire-pilot-project-numicon-marchjuly
+      - name: 2
+        items:
+        - name: ''
+          path: /news-update/02/2/comparison-mainstream-special-education-teenagers-down-syndrome-implications-parents-teachers
+        - name: ''
+          path: /news-update/02/2/employing-adults-down-syndrome
+        - name: ''
+          path: /news-update/02/2/inclusion-education-benefits-make-successful
+        - name: ''
+          path: /news-update/02/2/increasing-expressive-vocabulary-parental-recognition
+        - name: ''
+          path: /news-update/02/2/independence-employment-adults-down-syndrome
+        - name: ''
+          path: /news-update/02/2/megs-story
+        - name: ''
+          path: /news-update/02/2/speech-language-therapy-down-syndrome
+        - name: ''
+          path: /news-update/02/2/supporting-social-inclusion-students-down-syndrome-mainstream-education
+      - name: 3
+        items:
+        - name: ''
+          path: /news-update/02/3/achievements-teenagers-down-syndrome
+        - name: ''
+          path: /news-update/02/3/down-syndrome-learn-more-one-language
+        - name: ''
+          path: /news-update/02/3/letter-from-stuart
+        - name: ''
+          path: /news-update/02/3/needs-mosaic-down-syndrome-families
+        - name: ''
+          path: /news-update/02/3/research-studies-tell-us
+        - name: ''
+          path: /news-update/02/3/services-self-help-groups-ensure-everyone-gets-help-need
+        - name: ''
+          path: /news-update/02/3/setting-up-toddler-group
+      - name: 4
+        items:
+        - name: ''
+          path: /news-update/02/4/bilingualism-down-syndrome-germany
+        - name: ''
+          path: /news-update/02/4/down-syndrome-learn-more-one-language
+        - name: ''
+          path: /news-update/02/4/friendships-teenage-years
+        - name: ''
+          path: /news-update/02/4/language-literacy
+        - name: ''
+          path: /news-update/02/4/movement-abilities-down-syndrome
+        - name: ''
+          path: /news-update/02/4/teaching-language-reading-child-down-syndrome
+        - name: ''
+          path: /news-update/02/4/teaching-number-down-syndrome
+    - name: 03
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /news-update/03/1/developing-successful-inclusion
+        - name: ''
+          path: /news-update/03/1/experiences-early-development
+        - name: ''
+          path: /news-update/03/1/harrys-sporting-achievements
+        - name: ''
+          path: /news-update/03/1/i-learnt-drive
+        - name: ''
+          path: /news-update/03/1/keeping-declan-reading
+        - name: ''
+          path: /news-update/03/1/often-down-syndrome-twins
+        - name: ''
+          path: /news-update/03/1/powerpoint-presentation-young-adult-down-syndrome
+        - name: ''
+          path: /news-update/03/1/reading-teenagers-young-adults
+        - name: ''
+          path: /news-update/03/1/sarahs-sporting-achievements
+        - name: ''
+          path: /news-update/03/1/together-school-mainstream-school-italy-from-kindergarten-high-school
+        - name: ''
+          path: /news-update/03/1/twins-down-syndrome-our-experiences
+      - name: 2
+        items:
+        - name: ''
+          path: /news-update/03/2/hearing-disorders-down-syndrome
+        - name: ''
+          path: /news-update/03/2/individuals-down-syndrome-also-give-presentation
+        - name: ''
+          path: /news-update/03/2/significance-hearing-loss-down-syndrome
+        - name: ''
+          path: /news-update/03/2/taking-longer-wider-view
+        - name: ''
+          path: /news-update/03/2/teaching-down-syndrome-play-piano
+      - name: 3
+        items:
+        - name: ''
+          path: /news-update/03/3/book-reviews
+        - name: ''
+          path: /news-update/03/3/bryonys-early-reading-progress
+        - name: ''
+          path: /news-update/03/3/early-intervention-kenya
+        - name: ''
+          path: /news-update/03/3/individual-learning-time-unlocking-potential
+        - name: ''
+          path: /news-update/03/3/keys-successful-early-intervention
+        - name: ''
+          path: /news-update/03/3/learning-from-individual-stories-practical-ideas-reading-number-bike-riding
+        - name: ''
+          path: /news-update/03/3/learning-ride-bicycle
+        - name: ''
+          path: /news-update/03/3/more-issue-early-reading-opportunities
+        - name: ''
+          path: /news-update/03/3/reading-success-primary-school
+        - name: ''
+          path: /news-update/03/3/supporting-families-early-development-groups
+        - name: ''
+          path: /news-update/03/3/teaching-rina-my-experience-non-english-teaching-materials
+        - name: ''
+          path: /news-update/03/3/using-numicon-report-from-special-school
+      - name: 4
+        items:
+        - name: ''
+          path: /news-update/03/4/magic-sparkles-creative-approach-modifying-childrens-behaviour
+        - name: ''
+          path: /news-update/03/4/overcoming-sleep-problems-down-syndrome
+        - name: ''
+          path: /news-update/03/4/speech-language-therapy-galina
+        - name: ''
+          path: /news-update/03/4/understanding-behaviour
+    - name: 04
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /news-update/04/1/creative-approaches-teaching-differentiation
+        - name: ''
+          path: /news-update/04/1/mathematical-targets-personal-autonomy
+        - name: ''
+          path: /news-update/04/1/number-fun-you-count
+        - name: ''
+          path: /news-update/04/1/supporting-learning-development-ict
+        - name: ''
+          path: /news-update/04/1/update-sam-progress-he-has-made-numeracy-using-numicon
+      - name: 2
+        items:
+        - name: ''
+          path: /news-update/04/2/moving-circles
+        - name: ''
+          path: /news-update/04/2/sexuality-relationships-education-people-down-syndrome
+        - name: ''
+          path: /news-update/04/2/social-inclusion-full-life-is-still-challenge
+        - name: ''
+          path: /news-update/04/2/using-computer-megan
+        - name: ''
+          path: /news-update/04/2/using-hook-board-preschool-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /news-update/04/3/conversation-tool-samuel
+        - name: ''
+          path: /news-update/04/3/creative-arts-imagination-expression-important-way-being-sharing-feeling
+        - name: ''
+          path: /news-update/04/3/matteo-facilitated-communication
+        - name: ''
+          path: /news-update/04/3/mexican-school-down-art
+        - name: ''
+          path: /news-update/04/3/specificity-down-syndrome
+        - name: ''
+          path: /news-update/04/3/vision-down-syndrome-research-update
+      - name: 4
+        items:
+        - name: ''
+          path: /news-update/04/4/additional-needs
+        - name: ''
+          path: /news-update/04/4/autism-down-syndrome
+        - name: ''
+          path: /news-update/04/4/development-down-syndrome-phenotype
+        - name: ''
+          path: /news-update/04/4/josephs-bookkeeping
+        - name: ''
+          path: /news-update/04/4/kirsty
+        - name: ''
+          path: /news-update/04/4/my-dream-came-true-everyone-is-same-human-same-life
+        - name: ''
+          path: /news-update/04/4/provision-coordinated-care-individuals-down-syndrome-calgary-perspective
+    - name: 05
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /news-update/05/1/evaluating-numicon-system-tool-teaching-number-skills-down-syndrome
+        - name: ''
+          path: /news-update/05/1/fast-train-slow-train
+        - name: ''
+          path: /news-update/05/1/learning-doing
+        - name: ''
+          path: /news-update/05/1/nick-ben-bikes
+        - name: ''
+          path: /news-update/05/1/psychological-support-provided-families-young-down-syndrome
+        - name: ''
+          path: /news-update/05/1/support-families-effectively-first-year
+        - name: ''
+          path: /news-update/05/1/update-developments-down-syndrome-support-group-bradford
+        - name: ''
+          path: /news-update/05/1/why-me
+      - name: 2
+        items:
+        - name: ''
+          path: /news-update/05/2/attention-deficit-hyperactivity-disorder-adhd-down-syndrome
+        - name: ''
+          path: /news-update/05/2/developing-education-health-services-iraqi-down-syndrome
+        - name: ''
+          path: /news-update/05/2/handling-transfer-secondary-school
+        - name: ''
+          path: /news-update/05/2/holistic-learning-outcomes-musical-play-down-syndrome
+        - name: ''
+          path: /news-update/05/2/just-joe
+        - name: ''
+          path: /news-update/05/2/lets-pretend-pupils
+        - name: ''
+          path: /news-update/05/2/lukes-successful-secondary-transfer
+        - name: ''
+          path: /news-update/05/2/music-music-therapy-musical-abilities-role-music-lives-adults-down-syndrome
+        - name: ''
+          path: /news-update/05/2/our-flight-rina
+        - name: ''
+          path: /news-update/05/2/our-journey-hirschsprungs
+        - name: ''
+          path: /news-update/05/2/plenty-potential
+    - name: 06
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /news-update/06/1/feelybag-games
+        - name: ''
+          path: /news-update/06/1/girls-club
+        - name: ''
+          path: /news-update/06/1/handling-transfer-secondary-school-part
+        - name: ''
+          path: /news-update/06/1/inclusive-education-individuals-down-syndrome
+        - name: ''
+          path: /news-update/06/1/job-satisfaction
+        - name: ''
+          path: /news-update/06/1/learning-number-maths
+        - name: ''
+          path: /news-update/06/1/noises
+        - name: ''
+          path: /news-update/06/1/prom-night-charlotte
+        - name: ''
+          path: /news-update/06/1/th-june-day-remember
+      - name: 2
+        items:
+        - name: ''
+          path: /news-update/06/2/developing-working-memory-skills-down-syndrome
+        - name: ''
+          path: /news-update/06/2/educational-software-down-syndrome-update
+        - name: ''
+          path: /news-update/06/2/janes-education
+        - name: ''
+          path: /news-update/06/2/teaching-reading-skills-down-syndrome
+  - name: Publications
+    path: /publications
+  - name: Research and Practice
+    path: /research-practice
+    items:
+    - name: 01
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/01/1/expressive-language-delay-down-syndrome
+        - name: ''
+          path: /research-practice/01/1/investigation-articulatory-patterns-young-adults-down-syndrome-using-electropalatography
+        - name: ''
+          path: /research-practice/01/1/language-development-down-syndrome-reasons-optimism
+        - name: ''
+          path: /research-practice/01/1/preliminary-sleep-disorders-daytime-behaviour-problems-down-syndrome
+        - name: ''
+          path: /research-practice/01/1/teaching-down-syndrome-read
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/01/2/attitudes-experience-integration
+        - name: ''
+          path: /research-practice/01/2/collaborative-working-practices-special-schools
+        - name: ''
+          path: /research-practice/01/2/developing-speech-language-skills-teenagers-down-syndrome
+        - name: ''
+          path: /research-practice/01/2/learning-hard-way-avoidance-strategies-young-down-syndrome
+        - name: ''
+          path: /research-practice/01/2/learning-read-early-age-dutch-boy
+        - name: ''
+          path: /research-practice/01/2/moving-daniel-mainstream-years-old
+        - name: ''
+          path: /research-practice/01/2/sleep-problems-down-syndrome-summary-report
+        - name: ''
+          path: /research-practice/01/2/teaching-miles-first-year-mainstream-school
+        - name: ''
+          path: /research-practice/01/2/teaching-short-term-memory-skills-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/01/3/early-intervention-netherlands-struggle-syndrome-specific-organisation
+        - name: ''
+          path: /research-practice/01/3/from-theory-practice-child-language-development
+        - name: ''
+          path: /research-practice/01/3/group-differences-response-charity-images-down-syndrome
+        - name: ''
+          path: /research-practice/01/3/integration-does-make-difference
+        - name: ''
+          path: /research-practice/01/3/ocular-disorders-down-syndrome
+        - name: ''
+          path: /research-practice/01/3/significance-maternal-speech-styles-down-syndrome
+    - name: 02
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/02/1/comparison-development-independence-two-cohorts-young-people-down-syndrome
+        - name: ''
+          path: /research-practice/02/1/down-syndrome-quality-life-some-challenges-future-practice
+        - name: ''
+          path: /research-practice/02/1/early-communication-cognition-down-syndrome
+        - name: ''
+          path: /research-practice/02/1/is-never-too-late-learn-work-experience-adults-down-syndrome-developed-majorca-spain
+        - name: ''
+          path: /research-practice/02/1/physical-education-person-down-syndrome-more-playing-games
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/02/2/acquisition-grammatical-morphemes-down-syndrome
+        - name: ''
+          path: /research-practice/02/2/development-communication-skills-drama
+        - name: ''
+          path: /research-practice/02/2/language-development-down-syndrome-first-words-two-word-phrases
+        - name: ''
+          path: /research-practice/02/2/prevelance-thyroid-dysfunction-autoimmunity-adults-down-syndrome
+        - name: ''
+          path: /research-practice/02/2/screening-medical-problems-adults-down-syndrome
+        - name: ''
+          path: /research-practice/02/2/short-term-memory-deficits-down-syndrome-comparative
+        - name: ''
+          path: /research-practice/02/2/stability-transferability-errorless-learning-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/02/3/actions-speak-louder-words-signing-speech-intelligibility-adults-down-syndrome
+        - name: ''
+          path: /research-practice/02/3/attainments-reading-number-teenagers-adults-down-syndrome
+        - name: ''
+          path: /research-practice/02/3/down-syndrome-able-maintain-skills-learned-from-short-term-memory-training-program
+        - name: ''
+          path: /research-practice/02/3/investigation-experiences-parents-head-teachers-involved-integration-primary-aged-down-syndrome-mainstream-school
+        - name: ''
+          path: /research-practice/02/3/phonological-awareness-down-syndrome
+        - name: ''
+          path: /research-practice/02/3/thyroid-dysfunction-down-syndrome-review
+        - name: ''
+          path: /research-practice/02/3/voice-people-down-syndrome-emg-biofeedback
+        - name: ''
+          path: /research-practice/02/3/working-memory-down-syndrome-training-rehearsal-strategy
+    - name: 03
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/03/1/comparison-physical-psychiatric-status-individuals-translocation-trisomy-down-syndrome
+        - name: ''
+          path: /research-practice/03/1/differential-diagnosis-alzheimers-disease-hypothyroidism-adults-down-syndrome
+        - name: ''
+          path: /research-practice/03/1/exploratory-investigate-different-methods-teaching-sight-vocabulary-people-learning-disabilities-different-aetiologies
+        - name: ''
+          path: /research-practice/03/1/speech-language-therapists-work-support-assistants-attached-communication-disabled
+        - name: ''
+          path: /research-practice/03/1/working-memory-down-syndrome
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/03/2/influence-reading-instruction-language-memory-development-down-syndrome
+        - name: ''
+          path: /research-practice/03/2/investigating-literacy-language-memory-skills-down-syndrome
+        - name: ''
+          path: /research-practice/03/2/issues-sexuality-down-syndrome
+        - name: ''
+          path: /research-practice/03/2/parents-reported-responses-disclosure-down-syndrome
+        - name: ''
+          path: /research-practice/03/2/tell-me-katie-attitudes-mainstream-year-olds-peer-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/03/3/improving-expressive-language-skills-teenagers-down-syndrome
+        - name: ''
+          path: /research-practice/03/3/longterm-maintenance-memory-skills-taught-down-syndrome
+        - name: ''
+          path: /research-practice/03/3/numerical-ability-general-ability-language-down-syndrome
+        - name: ''
+          path: /research-practice/03/3/relationships-hearing-auditory-cognition-down-syndrome-youth
+    - name: 04
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/04/1/action-research-provision-training-special-needs-support-assistants-speech-language-therapy-department
+        - name: ''
+          path: /research-practice/04/1/functional-systems-approach-understanding-verbal-motor-integration-individuals-down-syndrome
+        - name: ''
+          path: /research-practice/04/1/integration-down-syndrome-mainstream-schools-teachers-knowledge-needs-attitudes-expectations
+        - name: ''
+          path: /research-practice/04/1/language-adults-down-syndrome
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/04/2/early-intervention-down-syndrome-past-future-issues
+        - name: ''
+          path: /research-practice/04/2/effects-short-training-rehearsal-strategy-memory-words-pictures-down-syndrome
+        - name: ''
+          path: /research-practice/04/2/raising-child-down-syndrome-parents-evaluations-health-information-support
+        - name: ''
+          path: /research-practice/04/2/self-concept-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/04/3/classroom-behaviour-language-competence-acceptance-down-syndrome-mainstream-peers
+        - name: ''
+          path: /research-practice/04/3/families-down-syndrome
+        - name: ''
+          path: /research-practice/04/3/partnership-marriage-down-syndrome
+        - name: ''
+          path: /research-practice/04/3/research-sleep-problems-psychological-function-down-syndrome-implications-clinical-practice-everyday-care
+    - name: 05
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/05/1/cases-exceptional-language-mental-retardation-down-syndrome-explanatory-perspectives
+        - name: ''
+          path: /research-practice/05/1/conclusions-world-congress-down-syndrome
+        - name: ''
+          path: /research-practice/05/1/effects-quality-life-models-development-research-practice-field-down-syndrome
+        - name: ''
+          path: /research-practice/05/1/teaching-basic-skills-down-syndrome-developmental-delays-relative-efficacy-interactive-modeling-social-rewards-benchmark-achievements-passive-observation
+        - name: ''
+          path: /research-practice/05/1/teenagers-down-syndrome-algebra-high-school
+        - name: ''
+          path: /research-practice/05/1/towards-optimal-mental-health-persons-down-syndrome
+        - name: ''
+          path: /research-practice/05/1/using-augmentative-communication-infants-young-down-syndrome
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/05/2/choose-story-does-down-syndrome-make-difference
+        - name: ''
+          path: /research-practice/05/2/educational-course-acquisition-autonomy-associazone-italiana-persone-down
+        - name: ''
+          path: /research-practice/05/2/group-instrument-intervention-global-development-child-down-syndrome-process-social-inclusion
+        - name: ''
+          path: /research-practice/05/2/hardiness-families-without-child-down-syndrome
+        - name: ''
+          path: /research-practice/05/2/prelinguistic-communication-down-syndrome
+        - name: ''
+          path: /research-practice/05/2/reference-representation-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/05/3/dental-care-patient-down-syndrome
+        - name: ''
+          path: /research-practice/05/3/development-scale-evaluation-listening-behaviour-down-syndrome
+        - name: ''
+          path: /research-practice/05/3/down-syndrome-kuwait-recurrent-familial-trisomy-siblings
+        - name: ''
+          path: /research-practice/05/3/igf-levels-down-syndrome
+        - name: ''
+          path: /research-practice/05/3/igg-antibodies-betalactoglobulin-cows-milk-protein-intolerance-down-syndrome
+        - name: ''
+          path: /research-practice/05/3/incidence-helicobacter-pylori-antibodies-subjects-down-syndrome
+        - name: ''
+          path: /research-practice/05/3/sleep-neurophysiopathology-down-syndrome
+        - name: ''
+          path: /research-practice/05/3/untoward-side-effects-interferon-therapy-correlate-well-spectrum-symptoms-make-up-down-syndrome
+        - name: ''
+          path: /research-practice/05/3/why-is-necessary-role-mitochondrial-genome-trisomy-pathogenesis
+    - name: 06
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/06/1/down-syndrome-thyroid-disorders-review
+        - name: ''
+          path: /research-practice/06/1/john-langdon-down-man-message
+        - name: ''
+          path: /research-practice/06/1/observational-learning-down-syndrome-developmental-delays-effect-presentation-speed-videotaped-modelling
+        - name: ''
+          path: /research-practice/06/1/social-development-severe-learning-difficulties-inclusive-education-initiative-two-primary-schools-oxfordshire-uk
+        - name: ''
+          path: /research-practice/06/1/world-association-movement-down-syndrome
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/06/2/down-syndrome-phonological-loop-evidence-importance-specific-verbal-shortterm-memory-deficit
+        - name: ''
+          path: /research-practice/06/2/getting-staying-there-down-syndrome-mainstream-schools
+        - name: ''
+          path: /research-practice/06/2/learning-count-difficult-task
+        - name: ''
+          path: /research-practice/06/2/relevance-nonword-repetition-task-assess-phonological-short-term-memory-individuals-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/06/3/characterisation-somatic-evolution-portuguese-trisomy-preliminary-results
+        - name: ''
+          path: /research-practice/06/3/debunking-pathological-model-functions-internet-discussion-group
+        - name: ''
+          path: /research-practice/06/3/down-syndrome-israel
+        - name: ''
+          path: /research-practice/06/3/life-lifestyle-choices-active-leisure
+        - name: ''
+          path: /research-practice/06/3/quality-life-ageing-down-syndrome
+        - name: ''
+          path: /research-practice/06/3/refractive-errors-visual-anomalies-down-syndrome
+        - name: ''
+          path: /research-practice/06/3/relation-psychological-functioning-down-syndrome-urine-peptide-levels-levels-serum-antibodies-food-proteins
+    - name: 07
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/07/1/implicit-versus-explicit-memory-function-down-williams-syndrome
+        - name: ''
+          path: /research-practice/07/1/language-cognition-short-term-memory-individuals-down-syndrome
+        - name: ''
+          path: /research-practice/07/1/linguistic-cognitive-profile-down-syndrome-evidence-from-comparison-fragile-x-syndrome
+        - name: ''
+          path: /research-practice/07/1/memory-training-down-syndrome
+        - name: ''
+          path: /research-practice/07/1/short-term-memory-down-syndrome-applying-working-memory-model
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/07/2/abstracts-from-nd-international-conference-chromosome-medical-research-down-syndrome-part
+        - name: ''
+          path: /research-practice/07/2/counting-cardinal-understanding-down-syndrome-typically-developing
+        - name: ''
+          path: /research-practice/07/2/delay-gratification-young-adults-down-syndrome
+        - name: ''
+          path: /research-practice/07/2/editorial
+        - name: ''
+          path: /research-practice/07/2/language-number-down-syndrome-complex-developmental-trajectory-from-infancy-adulthood
+        - name: ''
+          path: /research-practice/07/2/mastery-motivation-down-syndrome
+        - name: ''
+          path: /research-practice/07/2/motivation-learning-styles-young-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/07/3/down-syndrome-phonology-developmental-patterns-intervention-strategies
+        - name: ''
+          path: /research-practice/07/3/online-data-collection-special-populations-over-world-wide-web
+        - name: ''
+          path: /research-practice/07/3/sharing-laughter-humour-preschool-down-syndrome
+        - name: ''
+          path: /research-practice/07/3/signing-lexical-development-down-syndrome
+    - name: 08
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/08/1/cancer-incidence-persons-down-syndrome-israel
+        - name: ''
+          path: /research-practice/08/1/editorial
+        - name: ''
+          path: /research-practice/08/1/improving-classroom-listening-skills-down-syndrome-using-soundfield-amplification
+        - name: ''
+          path: /research-practice/08/1/is-there-relationship-zinc-peculiar-comorbidities-down-syndrome
+        - name: ''
+          path: /research-practice/08/1/language-ageing-persons-down-syndrome
+        - name: ''
+          path: /research-practice/08/1/oesophageal-atresia-down-syndrome
+        - name: ''
+          path: /research-practice/08/1/phonological-awareness-down-syndrome
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/08/2/cognitive-social-factors-development-infants-down-syndrome
+        - name: ''
+          path: /research-practice/08/2/editorial
+        - name: ''
+          path: /research-practice/08/2/gender-differences-coping-strategies-parents-down-syndrome
+        - name: ''
+          path: /research-practice/08/2/oxidative-stress-portuguese-down-syndrome
+        - name: ''
+          path: /research-practice/08/2/positive-approach-supporting-pupil-down-syndrome-during-dedicated-numeracy-time
+        - name: ''
+          path: /research-practice/08/2/reading-abby-individual-tutoring-young-adult-down-syndrome
+        - name: ''
+          path: /research-practice/08/2/work-stress-people-down-syndrome-dementia
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/08/3/early-phonological-awareness-reading-skills-down-syndrome
+        - name: ''
+          path: /research-practice/08/3/editorial
+        - name: ''
+          path: /research-practice/08/3/francoise-fifteen-year-follow-up
+        - name: ''
+          path: /research-practice/08/3/performing-movement-sequences-knowledge-results-under-different-visual-conditions-adults-down-syndrome
+        - name: ''
+          path: /research-practice/08/3/sleep-related-breathing-disorders-adults-down-syndrome
+    - name: 09
+      items:
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/09/2/hair-zinc-level-down-syndrome
+        - name: ''
+          path: /research-practice/09/2/parental-experiences-feeding-problems-infants-down-syndrome
+        - name: ''
+          path: /research-practice/09/2/whats-all-investigating-reading-comprehension-strategies-young-adults-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/09/3/breaking-hype-cycle-using-computer-effectively-learners-intellectual-disabilities
+        - name: ''
+          path: /research-practice/09/3/comparison-mainstream-special-education-teenagers-down-syndrome-implications-parents-teachers
+        - name: ''
+          path: /research-practice/09/3/early-learning-adaptive-behaviour-toddlers-down-syndrome-evidence-emerging-behavioural-phenotype
+        - name: ''
+          path: /research-practice/09/3/evidence-change-profile-from-inclusive-education
+        - name: ''
+          path: /research-practice/09/3/gross-motor-skill-acquisition-adolescents-down-syndrome
+        - name: ''
+          path: /research-practice/09/3/profiles-development-adaptive-behavior-down-syndrome
+    - name: 10
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/10/1/changes-maternal-age-england-wales-implications-down-syndrome
+        - name: ''
+          path: /research-practice/10/1/home-community-literacy-experiences-individuals-down-syndrome
+        - name: ''
+          path: /research-practice/10/1/obsessive-compulsive-disorder-treatment-patients-down-syndrome-series
+        - name: ''
+          path: /research-practice/10/1/provision-coordinated-care-individuals-down-syndrome-calgary-perspective
+        - name: ''
+          path: /research-practice/10/1/speech-intelligibility-childhood-verbal-apraxia-down-syndrome
+        - name: ''
+          path: /research-practice/10/1/temperament-behaviour-problems-young-down-syndrome-months
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/10/2/emergence-syndrome-specific-personality-profile-young-down-syndrome
+        - name: ''
+          path: /research-practice/10/2/language-learning-down-syndrome-speech-language-profile-compared-adolescents-cognitive-impairment-unknown-origin
+        - name: ''
+          path: /research-practice/10/2/perceptual-motor-deficits-down-syndrome-implications-intervention
+        - name: ''
+          path: /research-practice/10/2/role-parents-early-motor-intervention
+        - name: ''
+          path: /research-practice/10/2/using-epidemiological-approach-examine-outcomes-affecting-young-down-syndrome-families
+    - name: 11
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/11/1/development-oral-motor-control-language
+        - name: ''
+          path: /research-practice/11/1/mental-health-behaviour-intellectual-abilities-people-down-syndrome
+        - name: ''
+          path: /research-practice/11/1/responsive-teaching-early-intervention-down-syndrome-other-disabilities
+        - name: ''
+          path: /research-practice/11/1/simultaneous-treatment-grammatical-speech-comprehensibility-deficits-down-syndrome
+        - name: ''
+          path: /research-practice/11/1/specific-instructions-important-continuous-bimanual-drumming-adults-down-syndrome
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/11/2/abstracts-international-conference-language-cognitive-development-down-syndrome-portsmouth-uk-september
+        - name: ''
+          path: /research-practice/11/2/addressing-challenging-behaviour-down-syndrome-applied-behaviour-analysis-assessment-intervention
+        - name: ''
+          path: /research-practice/11/2/glucosephosphatedehydrogenase-is-also-increased-erythrocytes-from-adolescents-down-syndrome
+        - name: ''
+          path: /research-practice/11/2/parental-strategies-assisting-wait
+        - name: ''
+          path: /research-practice/11/2/passive-adolescents-down-syndrome
+        - name: ''
+          path: /research-practice/11/2/sensory-impairments-health-concerns-related-degree-intellectual-disability-people-down-syndrome
+    - name: 12
+      items:
+      - name: 1
+        items:
+        - name: ''
+          path: /research-practice/12/1/challenge-me-mobility-activity-cards
+        - name: ''
+          path: /research-practice/12/1/down-not-out-tool-inclusion
+        - name: ''
+          path: /research-practice/12/1/down-syndrome-neurology-clinic-too-much-too-little-too-late
+        - name: ''
+          path: /research-practice/12/1/drug-treatment-improves-memory-mice
+        - name: ''
+          path: /research-practice/12/1/early-intervention-vietnam
+        - name: ''
+          path: /research-practice/12/1/impact-periodontal-disease-quality-life-individuals-down-syndrome
+        - name: ''
+          path: /research-practice/12/1/increasing-opportunities-physical-activity
+        - name: ''
+          path: /research-practice/12/1/katrinas-progress-learning-mathematics
+        - name: ''
+          path: /research-practice/12/1/metric-analysis-hard-palate-down-syndrome-comparative
+        - name: ''
+          path: /research-practice/12/1/new-old-directions
+        - name: ''
+          path: /research-practice/12/1/oral-health-condition-treatment-needs-group-nigerian-individuals-down-syndrome
+        - name: ''
+          path: /research-practice/12/1/oral-health-problems-quality-life
+        - name: ''
+          path: /research-practice/12/1/parents-perceptions-health-physical-activity-needs-down-syndrome
+        - name: ''
+          path: /research-practice/12/1/prevalence-bruxism-among-mexican-down-syndrome
+        - name: ''
+          path: /research-practice/12/1/preventing-challenging-behaviours-down-syndrome-attention-early-developing-repertoires
+        - name: ''
+          path: /research-practice/12/1/sams-progress-learning-mathematics
+        - name: ''
+          path: /research-practice/12/1/shaping-speech
+        - name: ''
+          path: /research-practice/12/1/teaching-number-skills-concepts-numicon-materials
+        - name: ''
+          path: /research-practice/12/1/teaching-number-skills-concepts-stern-structural-arithmetic-materials
+        - name: ''
+          path: /research-practice/12/1/teaching-numeracy
+        - name: ''
+          path: /research-practice/12/1/teeth-grinding
+      - name: 2
+        items:
+        - name: ''
+          path: /research-practice/12/2/autoimmunity-puzzle-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/development-practice-speech-language-activities-preschool-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/down-syndrome-coeliac-disease-insulin-dependent-diabetes-mellitus-congenital-hypothyroidism
+        - name: ''
+          path: /research-practice/12/2/down-syndrome-issues-information-adult-living-series
+        - name: ''
+          path: /research-practice/12/2/early-developing-requesting-behaviours-young-infants-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/electropalatography-assessment-treatment-speech-difficulties-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/folate-metabolism-risk-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/full-potential
+        - name: ''
+          path: /research-practice/12/2/handling-transfer-secondary-school
+        - name: ''
+          path: /research-practice/12/2/investigating-free-software-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/literacy-environments-down-syndrome-home
+        - name: ''
+          path: /research-practice/12/2/medical-conditions-medication-adults-down-syndrome-descriptive-analysis
+        - name: ''
+          path: /research-practice/12/2/medical-issues-among-teenagers-down-syndrome-hong-kong
+        - name: ''
+          path: /research-practice/12/2/modelling-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/motherhood-genetic-screening-personal-perspective
+        - name: ''
+          path: /research-practice/12/2/power-behavioural-approaches-need-revival
+        - name: ''
+          path: /research-practice/12/2/prevalence-mthfr-ct-polymorphism-north-indian-mothers-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/singing-hands-book-songs
+        - name: ''
+          path: /research-practice/12/2/special-school-lonely-home-alternative-friendship-group-adolescents-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/speech-control-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/strategies-address-challenging-behaviour-young-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/supporting-child-down-syndrome-reading-recovery
+        - name: ''
+          path: /research-practice/12/2/take-memory-training-seriously
+        - name: ''
+          path: /research-practice/12/2/teaching-spontaneous-responses-young-child-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/uk-down-syndrome-research-forum
+        - name: ''
+          path: /research-practice/12/2/using-photographs-scaffold-literacy-activities-young-adults-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/verbal-nonverbal-requests-spanish-speaking-down-syndrome
+        - name: ''
+          path: /research-practice/12/2/wrongful-deaths-rightful-lives-screening-down-syndrome
+      - name: 3
+        items:
+        - name: ''
+          path: /research-practice/12/3/down-syndrome-golf
+        - name: ''
+          path: /research-practice/12/3/effects-early-auditory-deprivation-insights-from-cochlear-implants
+        - name: ''
+          path: /research-practice/12/3/importance-evidence-based-practice
+        - name: ''
+          path: /research-practice/12/3/kids-down-syndrome-staying-healthy-making-friends
+        - name: ''
+          path: /research-practice/12/3/report-research-directions-symposium
+    - name: Online
+      items:
+      - name: 2008
+        items:
+        - name: ''
+          path: /research-practice/online/2008/creating-support-families-down-syndrome-codiagnosis-survey
+        - name: ''
+          path: /research-practice/online/2008/cytogenetic-profile-down-syndrome-cases-seen-general-genetics-outpatient-service-brazil
+        - name: ''
+          path: /research-practice/online/2008/der-einsatz-von-ginkgo-fluoxetin-prozac-und-focalin-als-behandlung-beim-downsyndrom
+        - name: ''
+          path: /research-practice/online/2008/development-literacy-skills-down-syndrome-implications-intervention
+        - name: ''
+          path: /research-practice/online/2008/developmental-approach-down-syndrome-contemporary-issues-historical-perspective
+        - name: ''
+          path: /research-practice/online/2008/down-syndrome-behavioural-phenotype-taking-developmental-approach
+        - name: ''
+          path: /research-practice/online/2008/families-down-syndrome-what-need
+        - name: ''
+          path: /research-practice/online/2008/ginkgo-prozac-focalin-treatment-down-syndrome
+        - name: ''
+          path: /research-practice/online/2008/is-currently-known-hypotonia-motor-skill-development-physical-activity-down-syndrome
+        - name: ''
+          path: /research-practice/online/2008/la-utilizacion-de-ginkgo-prozac-y-focalina-como-tratamiento-para-el-sindrome-de-down
+        - name: ''
+          path: /research-practice/online/2008/lutilisation-de-gingko-prozac-et-focalin-comme-traitement-dans-la-trisomie-syndrome-de-down
+        - name: ''
+          path: /research-practice/online/2008/memory-learning-using-mouse-model
+        - name: ''
+          path: /research-practice/online/2008/memory-neuropsychology-down-syndrome
+        - name: ''
+          path: /research-practice/online/2008/number-arithmetic-skills-down-syndrome
+        - name: ''
+          path: /research-practice/online/2008/parent-carer-ratings-self-talk-behaviour-adults-down-syndrome-canada-united-kingdom
+        - name: ''
+          path: /research-practice/online/2008/parenttraining-narrative-language-intervention-down-syndrome
+        - name: ''
+          path: /research-practice/online/2008/phonetic-intelligibility-testing-adults-down-syndrome
+        - name: ''
+          path: /research-practice/online/2008/pragmatic-development
+        - name: ''
+          path: /research-practice/online/2008/relationship-focused-intervention-promotes-developmental-learning
+        - name: ''
+          path: /research-practice/online/2008/social-communicative-functioning
+        - name: ''
+          path: /research-practice/online/2008/speech-production-people-down-syndrome
+        - name: ''
+          path: /research-practice/online/2008/voice-child-down-syndrome
+      - name: 2009
+        items:
+        - name: ''
+          path: /research-practice/online/2009/autoimmune-hepatitis-down-syndrome
+        - name: ''
+          path: /research-practice/online/2009/exceptional-writing-young-adult-down-syndrome
+        - name: ''
+          path: /research-practice/online/2009/production-perception-word-stress-adolescents-down-syndrome
+        - name: ''
+          path: /research-practice/online/2009/reading-interventions-down-syndrome
+      - name: 2010
+        items:
+        - name: ''
+          path: /research-practice/online/2010/maternal-teaching-behaviour-preverbal-development-down-syndrome-typically-developing
+  - name: Topics
+    path: /topics

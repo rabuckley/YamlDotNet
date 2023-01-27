@@ -22,25 +22,38 @@
 using System.IO.Compression;
 using BenchmarkDotNet.Attributes;
 using YamlDotNet.RepresentationModel;
+using YamlDotNet.Serialization;
+using YamlDotNet.Serialization.NamingConventions;
 
 namespace YamlDotNet.Benchmark;
 
 [MemoryDiagnoser]
-public class YamlStreamBenchmark
+public class YamlDeserializationBenchmarks
 {
-    private string yamlString = "";
+    private static readonly IDeserializer s_deserializer = new DeserializerBuilder()
+        .WithNamingConvention(LowerCaseNamingConvention.Instance).Build();
 
-    [GlobalSetup]
-    public void Setup()
+    private const string Path = "Resources/nav-items.yml";
+
+    [Benchmark]
+    public void Deserialize_Stream()
     {
-        using var reader = new StreamReader(new GZipStream(File.OpenRead("Resources/saltern.yml.gz"), CompressionMode.Decompress));
-        yamlString = reader.ReadToEnd();
+        using var stream = File.Open(Path, FileMode.Open);
+        using var textReader = new StreamReader(stream);
+        _ = s_deserializer.Deserialize<NavItem[]>(textReader);
     }
 
     [Benchmark]
-    public void LoadLarge()
+    public void Deserialize_String()
     {
-        var yamlStream = new YamlStream();
-        yamlStream.Load(new StringReader(yamlString));
+        var yaml = File.ReadAllText(Path);
+        _ = s_deserializer.Deserialize<NavItem[]>(yaml);
+    }
+
+    private sealed class NavItem
+    {
+        public string Name { get; init; } = default!;
+        public string Path { get; init; } = default!;
+        public IList<NavItem> Items { get; init; } = default!;
     }
 }
